@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+{% extends 'apps/base.html' %}
+{% block body_block %}
+<h3>Musician Details:</h3>
+
+<p>{{ musician.first_name }} {{ musician.last_name }}</p>
+<p>{{ musician.instrument }}</p>
+<h3>Album:</h3>
+
+{% for album in musician.album_list.all %}
+
+<li>{{ album.name }}</li>
+
+{% endfor %}
+
+{% endblock %}

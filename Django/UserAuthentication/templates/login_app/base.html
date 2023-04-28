@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/4.4.1/css/bootstrap.min.css">
+    <!--   jQuery Library-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <ul class="navbar-nav">
+        <li class="nav-item active">
+            <a class="nav-link" href="{% url 'login_app:index' %}">Home</a>
+
+        </li>
+        {% if user.is_authenticated %}
+
+        <li>
+            <a class="nav-link" href="{% url 'login_app:user_logout' %}">Logout</a>
+
+        </li>
+
+        {%  else%}
+
+        <li>
+            <a class="nav-link" href="{% url 'login_app:register' %}">Register</a>
+
+        </li>
+
+        <li>
+            <a class="nav-link" href="{% url 'login_app:login_page' %}">Login</a>
+
+        </li>
+        {% endif %}
+
+    </ul>
+
+</nav>
+
+<div class="container" style="padding-top:20px">
+
+    {%block body_block %}
+
+
+    {% endblock %}
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+{% extends 'apps/base.html' %}
+{% block body_block %}
+{% for musician in musician_list %}
+<ul>
+<li> <a href="{% url 'apps:musician_details' pk=musician.pk %}">{{ musician.first_name }} {{ musician.last_name }} </a></li>
+</ul>
+{% endfor %}
+{% endblock %}
+
