@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf974d23-cd90-43f5-bcc6-044242252beb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CursorPagination.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/rest31/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/rest31/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/rest31/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/rest31/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest31/rest31/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassBasedAPIView/.idea/ClassBasedAPIView.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassBasedAPIView/.idea/ClassBasedAPIView.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/customauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/customauth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/rest22/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/rest22/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomAuthentication/rest22/rest22/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomAuthentication/rest22/rest22/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/mydjango_projects/BLOG" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/mydjango_projects/BLOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/social_media_project" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/social_media_project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FunctionBasedAPIView2/.idea/FunctionBasedAPIView2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FunctionBasedAPIView2/.idea/FunctionBasedAPIView2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericAPIView and Mixins/.idea/GenericAPIView and Mixins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericAPIView and Mixins/.idea/GenericAPIView and Mixins.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/JSONWebToken (JWT).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/rest23/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/rest23/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/rest23/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/rest23/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONWebToken (JWT)/rest23/rest23/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderingFilter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderingFilter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pagination/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pagination/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/.idea/SessionAuthentication and Permission.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/.idea/SessionAuthentication and Permission.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/rest17/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/rest17/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/rest17/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SessionAuthentication and Permission/rest17/rest17/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/throttling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/throttling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/rest24/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/rest24/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttling in DRF/rest24/rest24/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Throttling in DRF/rest24/rest24/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TokenAuthentication/rest20/api/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TokenAuthentication/rest20/api/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TokenAuthentication/rest20/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TokenAuthentication/rest20/api/serializers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PBgpdmYqpkzqG32CbLhNDts2H3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf974d23-cd90-43f5-bcc6-044242252beb" name="Changes" comment="" />
+      <created>1682936073146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682936073146</updated>
+    </task>
+    <servers />
+  </component>
+</project>
